@@ -1,0 +1,3 @@
+This document is for taking a pdf bank statement and sorting it into a usable dataframe. Then exporting it as a .csv file. 
+
+you can take the .csv file and create a ML training set from it. you will have to categorize your own transactions after they have been made into a .csv in order to make a pre trained set. then you can take your categorized files and test them to see if it predicts the correct categories of each transaction. 
